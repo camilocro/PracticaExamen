@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACI\u00D3N\\TecWeb Practica Examen\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|c:\\users\\camilo\\documentos ucb\\programaci\u00F3n\\tecweb practica examen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|c:\\users\\camilo\\documentos ucb\\programaci\u00F3n\\tecweb practica examen\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACI\u00D3N\\TecWeb Practica Examen\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACI\u00D3N\\TecWeb Practica Examen\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:17:33.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACI\u00D3N\\TecWeb Practica Examen\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACI\u00D3N\\TecWeb Practica Examen\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACI\u00D3N\\TecWeb Practica Examen\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
