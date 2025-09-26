@@ -1,15 +1,15 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Reflection;
 
-namespace newCRUD.Controllers
+namespace TecWeb_Practica_Examen.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class BookController : ControllerBase
+    public class BooksController : ControllerBase
     {
         private static readonly List<Book> _books = new()
         {
-            new Book { Id = Guid.NewGuid(), Title = "100 anios de soledad", Author = "Gabriel Garcia", Genre = "Dramatico", PublicationYear = 1965 }
+            new Book { Id = Guid.NewGuid(), Title = "100 anios de soledad", Author = "Gabriel Garcia", Genre = "Dramatico", PublicationYear = 1965 },
             new Book { Id = Guid.NewGuid(), Title = "Harry Potter", Author = "Emma Stone", Genre = "Lirico", PublicationYear = 2000 }
         };
 
@@ -61,7 +61,7 @@ namespace newCRUD.Controllers
             return book is null ? NotFound() : Ok(book);
         }
         [HttpPost]
-        public ActionResult<Book> Create([FromBody] CreteBookDto dto)
+        public ActionResult<Book> Create([FromBody] CreateBookDto dto)
         {
             var book = new Book
             {

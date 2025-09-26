@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACI\u00D3N\\TecWeb Practica Examen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|c:\\users\\camilo\\documentos ucb\\programaci\u00F3n\\tecweb practica examen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|c:\\users\\camilo\\documentos ucb\\programaci\u00F3n\\tecweb practica examen\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|c:\\users\\camilo\\documentos ucb\\programaci\u00F3n\\tecweb practica examen\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|c:\\users\\camilo\\documentos ucb\\programaci\u00F3n\\tecweb practica examen\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|c:\\users\\camilo\\documentos ucb\\programaci\u00F3n\\tecweb practica examen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C0411D8-C580-420F-9E57-3D6E17240D74}|TecWeb Practica Examen.csproj|c:\\users\\camilo\\documentos ucb\\programaci\u00F3n\\tecweb practica examen\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACI\u00D3N\\TecWeb Practica Examen\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACI\u00D3N\\TecWeb Practica Examen\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T14:17:33.947Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACI\u00D3N\\TecWeb Practica Examen\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAowF8AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T13:37:11.019Z",
               "EditorCaption": ""
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACI\u00D3N\\TecWeb Practica Examen\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
               "ToolTip": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACI\u00D3N\\TecWeb Practica Examen\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwC4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T13:21:24.969Z",
               "EditorCaption": ""
