@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TecWeb Practica Examen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7850cb68328821cdccd2651b09131ffb8ba994f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TecWeb Practica Examen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TecWeb Practica Examen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
