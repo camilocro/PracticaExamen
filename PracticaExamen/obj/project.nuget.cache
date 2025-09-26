@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/dSiL/4ohd8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Camilo\\Documentos UCB\\PROGRAMACIÓN\\TecWeb Practica Examen\\PracticaExamen\\PracticaExamen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Camilo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\Camilo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

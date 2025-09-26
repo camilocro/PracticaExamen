@@ -1,0 +1,6 @@
+@TecWeb_Practica_Examen_HostAddress = http://localhost:5095
+
+GET {{TecWeb_Practica_Examen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
